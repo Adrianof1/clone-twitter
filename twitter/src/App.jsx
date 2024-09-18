@@ -5,7 +5,7 @@ function App() {
   return (
     
       <div>
-        Twitter
+        <h1>Twitter</h1>
       </div>
         
     
